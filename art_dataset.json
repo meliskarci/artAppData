@@ -2,7 +2,7 @@
     {
         "img_name": "Christina’nın Dünyası",
         "original_name": "Christina’s World",
-        "img_year": "1948",
+        "img_year": 1948,
         "artist": "Andrew Wyeth",
         "location": "ABD, New York, MoMA (Modern Sanat Müzesi)",
         "explanation": "İlk boyanmasından sonra onlarca yıldan fazla bir süredir büyülemeye devam ediyor. Yerde yatan yüzü olmayan kadın, Pennsylvanialı sanatçı Andrew Wyeth’in komşusu ve ilham perisi Anna Christina Olson‘du. Resim bir pastoralin tüm özelliklerini taşımakta. Olson’un pozu romantik bir durgunluk değil. Olson kas erimesi bozukluğundan muzdaripti. Bu nedenle muhtemelen Charcot Marie Tooth hastalığı ve kendini aile çiftliğinde sürüklediği biliniyordu. Christina ünlü tablolardan sadece biri.",
@@ -11,7 +11,7 @@
     {
         "img_name": "Arnolfini’nin Evlenmesi",
         "original_name": "Portret van Giovanni Arnolfini en zijn vrouw",
-        "img_year": "1434",
+        "img_year": 1434,
         "artist": "Jan van Eyck",
         "location": "Londra, İngiltere, Ulusal Galeri",
         "explanation": "Eser, Giovanni Arnolfini ve eşinin bir düğün törenini resmeder. Tablo, detaylı perspektifi ve ışık oyunlarıyla dikkat çeker. Aynada yansıyan figürler, sanat tarihinin en erken imza detaylarından biridir.",
@@ -20,7 +20,7 @@
     {
         "img_name": "Amerikan Gotiği",
         "original_name": "American Gothic",
-        "img_year": "1930",
+        "img_year": 1930,
         "artist": "Grant Wood",
         "location": "Chicago Sanat Enstitüsü",
         "explanation": "Bu eser, Amerikalı kırsal yaşamı temsil eden ikonik bir tablodur. Sanatçı, çiftçinin kararlı yüz ifadesi ve gotik tarzda penceresi olan bir ev ile Amerikan kültürünün eleştirisini sunar.",
@@ -29,7 +29,7 @@
     {
         "img_name": "İnci Küpeli Kız",
         "original_name": "Meisje met de parel",
-        "img_year": "1665",
+        "img_year": 1665,
         "artist": "Johannes Vermeer",
         "location": "Hollanda, Mauritshuis Müzesi",
         "explanation": "Genç bir kızın inci küpesiyle portresini sunan bu eser, Vermeer’in ışık ve renk kullanımındaki ustalığını yansıtır.",
@@ -38,7 +38,7 @@
     {
         "img_name": "Ophelia",
         "original_name": "Ophelia",
-        "img_year": "1851-52",
+        "img_year": 1851,
         "artist": "John Everett Millais",
         "location": "Londra, İngiltere, Tate Britain",
         "explanation": "William Shakespeare’in Hamlet eserindeki Ophelia karakterinin ölüm sahnesini tasvir eder. Doğal detayları ve renk kullanımıyla ön plana çıkar.",
